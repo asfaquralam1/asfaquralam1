@@ -4,15 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/asfaquralam1" target="blank"><img src="https://img.shields.io/twitter/follow/asfaquralam1?logo=twitter&style=for-the-badge" alt="asfaquralam1" /></a> </p>
 
-- 🔭 I’m currently working on [engle-soft](https://github.com/asfaquralam1/engle-soft)
+- 🔭 I’m currently working on [Node.js,React.js]
 
 - 🌱 I’m currently learning **Node.js,React.js**
 
 - 👯 I’m looking to collaborate on [engle-soft](https://github.com/asfaquralam1/engle-soft)
-
-- 🤝 I’m looking for help with [engle-soft](https://github.com/asfaquralam1/engle-soft)
-
-- 💬 Ask me about **Node.js,React.js**
 
 - 📫 How to reach me **asfaquralam01@gmail.com**
 
