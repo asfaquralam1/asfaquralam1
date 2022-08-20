@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladeshi, I am also learning backend developing.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
-<p align="left"> <a href="https://asfaquralam1.github.io/Portfolio/" target="blank"><img src="" alt="asfaquralam1" /></a> </p>
+<!-- <p align="left"> <a href="https://asfaquralam1.github.io/Portfolio/" target="blank"><img src="" alt="asfaquralam1" /></a> </p> -->
 
 - 🔭 I’m currently working on [Node.js,React.js]
 
@@ -13,8 +13,8 @@
 - 📫 How to reach me **asfaquralam01@gmail.com**
 
 - ⚡ Fun fact **I think I am a funny guy.**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
