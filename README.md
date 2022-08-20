@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js,React.js**
 
-- 👯 I’m looking to collaborate on [engle-soft](https://github.com/asfaquralam1/engle-soft)
+- 👯 I’m looking to collaborate with my teammates.
 
 - 📫 How to reach me **asfaquralam01@gmail.com**
 
