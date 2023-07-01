@@ -1,5 +1,3 @@
-<!-- ### Hi there, I'm Asfaqur Alam 👋 -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Abu+Raihan+Rony)](https://github.com/asfaquralam1)
 
 [![Website](https://img.shields.io/website?label=ronyaburaihan.me&style=for-the-badge&url=https://ronyaburaihan.github.io/portfolio)](https://ronyaburaihan.github.io/portfolio)
