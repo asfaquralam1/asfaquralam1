@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Asfaqur+Alam)](https://github.com/asfaquralam1)
 
-[![Website](https://img.shields.io/website?label=asfaquralam1.me&style=for-the-badge&url=https://asfaquralam1.github.io/Portfolio)]
-(https://asfaquralam1.github.io/Portfolio)
+[![Website](https://img.shields.io/website?label=asfaquralam1.me&style=for-the-badge&url=https://asfaquralam1.github.io/Portfolio)](https://asfaquralam1.github.io/Portfolio)
 
 ## I'm an  Full Stack Developer!!
 
