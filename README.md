@@ -1,4 +1,11 @@
-<h2>I'm an  Full Stack Developer!! 👋</h2>
+<!-- ### Hi there, I'm Asfaqur Alam 👋 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Abu+Raihan+Rony)](https://github.com/ronyaburaihan)
+
+[![Website](https://img.shields.io/website?label=ronyaburaihan.me&style=for-the-badge&url=https://ronyaburaihan.github.io/portfolio)](https://ronyaburaihan.github.io/portfolio)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ronyaburaihan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ronyaburaihan) -->
+
+## I'm an  Full Stack Developer!!
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
