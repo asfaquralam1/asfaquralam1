@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=asfaquralam1.me&style=for-the-badge&url=https://asfaquralam1.github.io/Portfolio)](https://asfaquralam1.github.io/Portfolio)
 
-## I'm an  Full Stack Developer!!
+## I'm a Full Stack Developer!!
 
 - 🔭 I’m currently working on Laravel Projects.
 
@@ -20,7 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfaquralam1&layout=compact)](https://github.com/asfaquralam1/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asfaquralam1&show_icons=true&theme=radical)
 
-(https://github-readme-streak-stats.herokuapp.com/?user=asfaquralam1)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
