@@ -20,9 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfaquralam1&layout=compact)](https://github.com/asfaquralam1/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asfaquralam1&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/asfaquralam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asfaquralam1" height="30" width="40" /></a>
